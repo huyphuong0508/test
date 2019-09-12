@@ -1,13 +1,13 @@
 <?php
 
 //Add your information here
-$recipient = 'dgreenhalong@gmail.com';
+$recipient = 'mio_angelo142@yahoo.com';
 
 //Don't edit anything below this line
 
 //import form information
 $name = $_POST['name'];
-$email = $_POST["email"];
+$email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
